@@ -1,0 +1,11 @@
+base_dir: /home/a.zeid/experiments/denoising_diffusion_implicit_models
+sd_model: stabilityai/stable-diffusion-3-medium-diffusers
+guidance_scale: 3.5
+num_inference_steps: 50
+image_path: /home/a.zeid/experiments/denoising_diffusion_implicit_models/org_image.png
+seed: null
+dtype: half
+prompt: str
+edit_prompt: str
+font_size: 100
+strength: 0.5
